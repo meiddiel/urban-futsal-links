@@ -1,30 +1,41 @@
 
-# Urban Futsal — Liens officiels
+# GALAXY SPORTS CENTER
 
-Page officielle de redirection d'Urban Futsal, située à Zone Galaxy Andraharo, Antananarivo, Madagascar.
+### Votre destination sport & loisirs à Antananarivo
 
-## Objectif
+Bienvenue sur le dépôt officiel de **Galaxy Sports Center**, anciennement Urban Futsal, situé dans la Zone Galaxy Andraharo à Antananarivo, Madagascar.
 
-Centraliser nos réseaux sociaux et faciliter les réservations depuis un seul QR code.
+## À propos
 
-## Nos réseaux sociaux
+Galaxy Sports Center est un complexe sportif dédié au football et au padel.
 
-- Facebook : https://www.facebook.com/share/1EsmQsjyZa/
-- Instagram : https://www.instagram.com/urbanfutsal1
-- TikTok : https://www.tiktok.com/@urban.futsal
+Notre ambition est d'offrir un espace moderne, accessible et convivial pour les passionnés de sport, les entreprises, les groupes d'amis et les familles.
 
-## Réservations et renseignements
+## Notre QR Code officiel
 
-Téléphone : 034 75 555 25
+Ce projet héberge une landing page permettant aux visiteurs d'accéder facilement à nos plateformes et services à partir d'un QR code unique.
 
-## Fonctionnalités
+### Accès rapides
 
-- Interface responsive adaptée aux smartphones
-- Accès rapide aux réseaux sociaux
-- Bouton d'appel direct
-- Copie du numéro de téléphone
-- Affichage clair et sombre
-- Accessible via QR code
+- Facebook : actualités, événements et promotions
+- Instagram : photos, stories et communauté
+- TikTok : vidéos et temps forts
+- Réservations : contact téléphonique direct
+
+## Nos installations
+
+- 2 terrains de football
+- 2 terrains de padel
+- Espaces et équipements dédiés aux sportifs
+
+## Fonctionnalités de la landing page
+
+- Interface moderne et responsive
+- Navigation optimisée pour les smartphones
+- Accès direct aux réseaux sociaux
+- Bouton d'appel pour les réservations
+- QR code unique pour tous nos liens
+- Mise à jour sans modifier le QR code existant
 
 ## Technologies
 
@@ -35,16 +46,23 @@ Téléphone : 034 75 555 25
 
 ## Déploiement
 
-Site statique hébergé gratuitement sur GitHub Pages.
+La landing page est hébergée gratuitement avec GitHub Pages.
 
 Fichier principal : `index.html`
 
+Toute modification validée sur la branche de publication est automatiquement déployée.
+
 ## Localisation
 
-Urban Futsal
-Zone Galaxy Andraharo
+**Galaxy Sports Center**
+
+Zone Galaxy Andraharo  
 Antananarivo, Madagascar
+
+## Contact
+
+Réservations et renseignements : **034 75 559 04**
 
 ---
 
-© 2026 Urban Futsal. Tous droits réservés.
+© 2026 Galaxy Sports Center. Tous droits réservés.
